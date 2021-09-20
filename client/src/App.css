@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Segoe UI', Verdana, sans-serif;
+  outline: none;
+  transition: all 0.1s ease;
+}
+
+body {
+  background-color: black;
+}
+
+.App {
+  background-color:black;
+  margin: auto;
+  width: 50%;
+  min-width: 600px;
+  padding: 10px;
+  text-align: center;
+}
+

@@ -1,0 +1,55 @@
+
+.repo-block {
+    margin-top: 20px;
+}
+
+.repo-heading {
+    background-color: rgba(128, 128, 128, 0.192);
+    color: white;
+    height: fit-content;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.repo-heading p{
+    padding: 10px;
+    margin: 0px;
+}
+
+.date-created-div p{
+    color: rgb(138, 138, 138);
+    font-size: 10px;
+    text-align: right;
+    margin: 0px;
+    padding: 2px 10px ;
+}
+
+.repo-commit-heading{
+    background-color: rgba(170, 170, 170, 0.089);
+    height: fit-content;
+}
+.repo-commit-heading p{
+    padding: 5px 0px 5px 10px;
+    margin: 0px;
+    font-size: 80%;
+    color: rgb(158, 158, 158);
+}
+
+.repo-desc{
+    color: rgb(180, 180, 180);
+    font-size: 14px;
+}
+
+.repo-commits {
+    padding: 10px;
+}
+.repo-commits p {
+    margin: 0px;
+    padding: 0px;
+    color: rgb(165, 165, 165);
+    font-size: 15px;
+}
+
+ul {
+    margin-left: 10px;
+}

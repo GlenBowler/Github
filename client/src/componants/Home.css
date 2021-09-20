@@ -1,0 +1,81 @@
+
+.header{
+    margin: 30px;
+    color: white;
+}
+.searchbar{
+    margin-bottom: 20px;
+    padding: 5px;
+    display: inline-block;
+    width: 100%;
+}
+input {
+    background-color: white;
+    width: 60%;
+    height: 25px;
+    text-align: center;
+    color: black;
+    height: 100%;
+    border: none;
+    outline: none;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
+    border:3px solid green;
+}
+.my-form {
+    height: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+.search-btn {
+    border: none;
+    outline: none;
+    color: black;
+    background-color: white;
+    padding: 2px 20px 2px 20px;
+    height: 100%;
+    border-radius: 0px 10px 10px 0px;
+    border:3px solid green;
+}
+.search-btn:hover{
+    background-color:green;
+}
+.search-btn:focus{
+    outline: none;
+}
+.home-screen {
+    margin: auto;
+    width: 80%;
+}
+#result-row {
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    border:3px solid green;
+    border-radius: 10px 10px 0px 0px;
+    color: black;
+}
+.result-block{
+    width: 100%;
+}
+.result-block:hover{
+    background-color: green;
+}
+.active-block{
+    background-color: green;
+}
+.result-title {
+    font-size: 110%;
+    font-weight: bold;
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+}
+.result-block p{
+    margin-top: 10px;
+}
+.response-name:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
